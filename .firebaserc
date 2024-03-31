@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "eml-ev-l5",
+    "eml": "eml-ev-l5"
+  },
+  "targets": {}
+}
